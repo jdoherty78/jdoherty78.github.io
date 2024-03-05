@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+
+  <style>
+    body {background-color: lightblue;}
+    h2   {color: purple;}
+    p    {color: black;}
+
+    a:link {
+        color: green;
+        background-color: transparent;
+        text-decoration: none;
+           }
+
+    a:visited {
+        color: blue;
+        background-color: transparent;
+        text-decoration: none;
+          }
+
+    a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+        }
+
+    a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+         }
+         
+  </style>
+
+</head>
+
+<body>
+  <h1>Welcome to jdoherty78's GitHub Page.</h1>
+    <p>I'm hosted with GitHub Pages.<br>
+      <a href="https://www.linkedin.com/in/joseph-doherty-5597a688" target="_blank">Linkedin</a><br>
+      <a href="https://github.com/jdoherty78" target="_blank">GitHub Profile</a><br>
+      <a href="https://jdoherty78.github.io/gh-pages-react/" target="_blank">GitHub Pages React</a>
+    </p>
+
+  <h2>Wood Dust</h2>
+    <p>
+     <a href="https://www.leevalley.com/en-ca" target="_blank">Lee Valley</a><br>
+     <a href="https://shopwoodpeckers.ca/" target="_blank">Woodpeckers</a><br>
+     <a href="https://www.gibsontimberframes.com/" target="_blank">Gibson Timber Frames</a><br>
+    </p>
+
+<h2>Tech</h2>
+  <p>
+    <a href="https://www.reddit.com/" target="_blank">Reddit</a><br>
+    <a href="https://slashdot.org/" target="_blank">Slashdot</a><br>
+    <a href="https://www.udemy.com/" target="_blank">Udemy</a><br>
+    <a href="https://www.cbtnuggets.com/" target="_blank">CBT Nuggets</a><br>
+  </p>
+
+<h2>It's Go Time!</h2>
+<p>
+  <a href="https://swiftcanoe.com/home/" target="_blank">Swift Canoe</a><br>
+  <a href="https://www.algonquinpark.on.ca/index.php" target="_blank">Algonquin Park</a><br>
+  <a href="https://www.yukonhiking.ca/kings_throne.html" target="_blank">King's Throne</a><br>
+</p>
+
+
+
+</body>
+</html>
